@@ -1,0 +1,25 @@
+{
+  "name": "trapp",
+  "version": "0.0.1",
+  "description": "Térence React App. Single Page App, client routing, customizable.",
+  "main": "src/server/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tterence/TRapp.git"
+  },
+  "keywords": [
+    "react",
+    "router5",
+    "mobx",
+    "multi-instance"
+  ],
+  "author": "terence.tadjifoue@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tterence/TRapp/issues"
+  },
+  "homepage": "https://github.com/tterence/TRapp#readme"
+}
